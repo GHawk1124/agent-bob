@@ -1,0 +1,8 @@
+[package]
+name = "agent-bob"
+author = "Garrett Comes"
+description = "An AI coding agent"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

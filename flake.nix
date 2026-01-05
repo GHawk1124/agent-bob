@@ -36,6 +36,7 @@
             defaults.perCrate.crane.args = {
               nativeBuildInputs = with pkgs; [
                 pkg-config
+                openssl
               ];
               buildInputs = [ ];
             };
